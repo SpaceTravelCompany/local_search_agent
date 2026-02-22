@@ -38,4 +38,3 @@
 pip install -r requirements.txt
 ```
 권장 요구 패키지: requests, beautifulsoup4, ddgs, python-dotenv
-```
